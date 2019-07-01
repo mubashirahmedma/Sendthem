@@ -1,2 +1,2 @@
 # sendthem
-Php Email Marketing Application
+Php Email Marketing Or Newsletter Application
